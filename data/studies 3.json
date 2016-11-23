@@ -1,0 +1,216 @@
+{
+  "studies": [
+    {
+      "abstract": "Copyright & Risk: Scoping the Wellcome Digital Library is a retrospective case study which aimed to assess the merits of the risk-managed approach to copyright clearance adopted by the Wellcome Library (WL) in the course of their pilot digitisation project Codebreakers: Makers of Modern Genetics. \n\nThe case study is based on semi-structured interviews, which were conducted with members of project staff at the Wellcome Library, and at their partner archive institutions. Project documentation was also made available, and this material takes two forms: policy documents which were circulated and updated as the project took place; and an internal report produced towards the end of the project, which includes a variety of statistics and more general lessons learned. \n\nThe report finds that while the initial risk management strategy adopted by the Wellcome has been successful, there is still very little evidence available about the success of rights clearance and risk management in the UK archive sector, and that further empirical investigation is required.",
+      "aggregation_level": "Case Study",
+      "analysis_method": [
+        "Quantitative Analysis Methods",
+        "Quantitative content analysis (e.g. text or data mining)",
+        "Qualitative Analysis Methods",
+        "Textual Content Analysis",
+        "Qualitative Coding / Sorting (e.g. of interview data)"
+      ],
+      "authentic_link": "http://www.create.ac.uk/wp-content/uploads/2013/12/CREATe-Working-Paper-No.10.pdf",
+      "authors": [
+        "Stobo, Deazley, Anderson"
+      ],
+      "collection_method": [
+        "Quantitative Collection Methods",
+        "Survey Research (quantitative; e.g. sales/income reporting)",
+        "Qualitative Collection Methods",
+        "Case Study",
+        "Semi-Structured Interview"
+      ],
+      "comparative": false,
+      "country": [
+        "United Kingdom"
+      ],
+      "cross_country": false,
+      "data": [
+        "Semi-structured interviews with members of project staff at the Wellcome Library."
+      ],
+      "data_description": "This report is a case study of the pilot digitisation project 'Codebreakers: Makers of Modern Genetics' run by the Wellcome Library. Data was gathered using semi-structured interviews with key staff working on the project.",
+      "data_material_year": "2010-2013",
+      "data_type": "Primary data",
+      "data_year": "2010-2013",
+      "discipline": "O33: Technological Change: Choices and Consequences \u2022 Diffusion Processes, O34: Intellectual Property and Intellectual Capital, O38: Government Policy",
+      "evidence_based_policy": [
+        "Nature and Scope of exclusive rights"
+      ],
+      "full_citation": "Stobo, V., Deazley, R. and Anderson, I., 2013. Copyright & Risk: Scoping the Wellcome Digital Library Project (Vol. 10, pp. 17-23). CREATe Working Paper.",
+      "fundamental_issue": [
+        "Relationship between protection",
+        "Relationship between creative process and protection - what motivates creators",
+        "Harmony of interest assumption between authors and publishers",
+        "Effects of protection on industry structure",
+        "Understanding consumption/use"
+      ],
+      "funded_by": [
+        "RCUK Funded Centre for Copyright and New Business Models in the Creative Economy (CREATe)"
+      ],
+      "government_or_policy": false,
+      "industry": [
+        "Cultural education"
+      ],
+      "intervention_response": "Based on the results of the rights clearance exercise, and the material now available on the Wellcome Library website, Codebreakers has been a significant success for both the Wellcome Library and the 3rd party archives involved. In addition to this success, elements of the Wellcome Library approach to rights clearance could have wider applicability across the UK archive sector.",
+      "link": "http://www.create.ac.uk/wp-content/uploads/2013/12/CREATe-Working-Paper-No.10.pdf",
+      "literature_review": false,
+      "method": [
+        "Qualitative Analysis",
+        "Interviews",
+        "Case Study"
+      ],
+      "name": "Stobo, Deazley and Anderson (2013)",
+      "proposition": "Based on the results of the rights clearance exercise, and the material now available on the Wellcome Library website, Codebreakers has been a significant success for both the Wellcome Library and the 3rd party archives involved. In addition to this success, elements of the Wellcome Library approach to rights clearance could have wider applicability across the UK archive sector.\nThe Wellcome Library\u2019s risk management strategy had two broad aims: to manage the risks associated with publishing in-copyright material online and publishing potentially sensitive material online. They managed these risks in three ways.\nFirst: the publication of in-copyright material online was made possible using a risk management strategy which involves a set of risk criteria for identifying medium and high-risk rightsholders in the collections, and a diligent search standard for locating and contacting rightsholders.\nSecond: they managed the publication of potentially sensitive material online using their Access to Archives policy, which provides guidance that can be followed for all physical, digitised and born-digital material held across the Wellcome Library, to take into account both searchroom\nand online access to sensitive, personal data.\nThird: in addition to this, they have an established takedown policy which predates Codebreakers, and applies to all material available on their website. The most significant indicators of success for the archives clearance process include the number of permissions to publish granted: of the 77% of rightsholders contacted who responded, 98% said yes. The rate of response to permission requests itself was also relatively healthy compared to other projects: the Jon Cohen AIDS collection rights clearance project found that 68% of rightsholders contacted for permission to publish responded,127 compared to 77% in Codebreakers.",
+      "references": [
+        "Stobo, Deazley and Anderson (2013)",
+        "Dryden (2008)"
+      ],
+      "sample_size": "1",
+      "title": "Study 1",
+      "year": "2013"
+    },
+    {
+      "abstract": "Copyright & Risk: Scoping the Wellcome Digital Library is a retrospective case study which aimed to assess the merits of the risk-managed approach to copyright clearance adopted by the Wellcome Library (WL) in the course of their pilot digitisation project Codebreakers: Makers of Modern Genetics. \n\nThe case study is based on semi-structured interviews, which were conducted with members of project staff at the Wellcome Library, and at their partner archive institutions. Project documentation was also made available, and this material takes two forms: policy documents which were circulated and updated as the project took place; and an internal report produced towards the end of the project, which includes a variety of statistics and more general lessons learned. \n\nThe report finds that while the initial risk management strategy adopted by the Wellcome has been successful, there is still very little evidence available about the success of rights clearance and risk management in the UK archive sector, and that further empirical investigation is required.",
+      "aggregation_level": "Case Study",
+      "analysis_method": [
+        "Quantitative Analysis Methods",
+        "Quantitative content analysis (e.g. text or data mining)",
+        "Qualitative Analysis Methods",
+        "Textual Content Analysis",
+        "Qualitative Coding / Sorting (e.g. of interview data)"
+      ],
+      "authentic_link": "http://www.create.ac.uk/wp-content/uploads/2013/12/CREATe-Working-Paper-No.10.pdf",
+      "authors": [
+        "Stobo, Deazley, Anderson"
+      ],
+      "collection_method": [
+        "Quantitative Collection Methods",
+        "Survey Research (quantitative; e.g. sales/income reporting)",
+        "Qualitative Collection Methods",
+        "Case Study",
+        "Semi-Structured Interview"
+      ],
+      "comparative": false,
+      "country": [
+        "United Kingdom"
+      ],
+      "cross_country": false,
+      "data": [
+        "Semi-structured interviews with members of project staff at the Wellcome Library."
+      ],
+      "data_description": "This report is a case study of the pilot digitisation project 'Codebreakers: Makers of Modern Genetics' run by the Wellcome Library. Data was gathered using semi-structured interviews with key staff working on the project.",
+      "data_material_year": "2010-2013",
+      "data_type": "Primary data",
+      "data_year": "2010-2013",
+      "discipline": "O33: Technological Change: Choices and Consequences \u2022 Diffusion Processes, O34: Intellectual Property and Intellectual Capital, O38: Government Policy",
+      "evidence_based_policy": [
+        "Nature and Scope of exclusive rights",
+        "Exceptions",
+        "Mass digitisation/orphan works",
+        "Licensing and Business models",
+        "Fair remuneration",
+        "Enforcement"
+      ],
+      "full_citation": "Stobo, V., Deazley, R. and Anderson, I., 2013. Copyright & Risk: Scoping the Wellcome Digital Library Project (Vol. 10, pp. 17-23). CREATe Working Paper.",
+      "fundamental_issue": [
+        "Relationship between protection"
+      ],
+      "funded_by": [
+        "RCUK Funded Centre for Copyright and New Business Models in the Creative Economy (CREATe)"
+      ],
+      "government_or_policy": false,
+      "industry": [
+        "Cultural education"
+      ],
+      "intervention_response": "Based on the results of the rights clearance exercise, and the material now available on the Wellcome Library website, Codebreakers has been a significant success for both the Wellcome Library and the 3rd party archives involved. In addition to this success, elements of the Wellcome Library approach to rights clearance could have wider applicability across the UK archive sector.",
+      "link": "http://www.create.ac.uk/wp-content/uploads/2013/12/CREATe-Working-Paper-No.10.pdf",
+      "literature_review": false,
+      "method": [
+        "Qualitative Analysis",
+        "Interviews",
+        "Case Study"
+      ],
+      "name": "Stobo, Deazley and Anderson (2013)",
+      "proposition": "Based on the results of the rights clearance exercise, and the material now available on the Wellcome Library website, Codebreakers has been a significant success for both the Wellcome Library and the 3rd party archives involved. In addition to this success, elements of the Wellcome Library approach to rights clearance could have wider applicability across the UK archive sector.\nThe Wellcome Library\u2019s risk management strategy had two broad aims: to manage the risks associated with publishing in-copyright material online and publishing potentially sensitive material online. They managed these risks in three ways.\nFirst: the publication of in-copyright material online was made possible using a risk management strategy which involves a set of risk criteria for identifying medium and high-risk rightsholders in the collections, and a diligent search standard for locating and contacting rightsholders.\nSecond: they managed the publication of potentially sensitive material online using their Access to Archives policy, which provides guidance that can be followed for all physical, digitised and born-digital material held across the Wellcome Library, to take into account both searchroom\nand online access to sensitive, personal data.\nThird: in addition to this, they have an established takedown policy which predates Codebreakers, and applies to all material available on their website. The most significant indicators of success for the archives clearance process include the number of permissions to publish granted: of the 77% of rightsholders contacted who responded, 98% said yes. The rate of response to permission requests itself was also relatively healthy compared to other projects: the Jon Cohen AIDS collection rights clearance project found that 68% of rightsholders contacted for permission to publish responded,127 compared to 77% in Codebreakers.",
+      "references": [
+        "Stobo, Deazley and Anderson (2013)",
+        "Dryden (2008)"
+      ],
+      "sample_size": "1",
+      "title": "Study 2",
+      "year": "2013"
+    },
+    {
+      "abstract": "Copyright & Risk: Scoping the Wellcome Digital Library is a retrospective case study which aimed to assess the merits of the risk-managed approach to copyright clearance adopted by the Wellcome Library (WL) in the course of their pilot digitisation project Codebreakers: Makers of Modern Genetics. \n\nThe case study is based on semi-structured interviews, which were conducted with members of project staff at the Wellcome Library, and at their partner archive institutions. Project documentation was also made available, and this material takes two forms: policy documents which were circulated and updated as the project took place; and an internal report produced towards the end of the project, which includes a variety of statistics and more general lessons learned. \n\nThe report finds that while the initial risk management strategy adopted by the Wellcome has been successful, there is still very little evidence available about the success of rights clearance and risk management in the UK archive sector, and that further empirical investigation is required.",
+      "aggregation_level": "Case Study",
+      "analysis_method": [
+        "Quantitative Analysis Methods",
+        "Quantitative content analysis (e.g. text or data mining)",
+        "Qualitative Analysis Methods",
+        "Textual Content Analysis",
+        "Qualitative Coding / Sorting (e.g. of interview data)"
+      ],
+      "authentic_link": "http://www.create.ac.uk/wp-content/uploads/2013/12/CREATe-Working-Paper-No.10.pdf",
+      "authors": [
+        "Stobo, Deazley, Anderson"
+      ],
+      "collection_method": [
+        "Quantitative Collection Methods",
+        "Survey Research (quantitative; e.g. sales/income reporting)",
+        "Qualitative Collection Methods",
+        "Case Study",
+        "Semi-Structured Interview"
+      ],
+      "comparative": false,
+      "country": [
+        "United Kingdom"
+      ],
+      "cross_country": false,
+      "data": [
+        "Semi-structured interviews with members of project staff at the Wellcome Library."
+      ],
+      "data_description": "This report is a case study of the pilot digitisation project 'Codebreakers: Makers of Modern Genetics' run by the Wellcome Library. Data was gathered using semi-structured interviews with key staff working on the project.",
+      "data_material_year": "2010-2013",
+      "data_type": "Primary data",
+      "data_year": "2010-2013",
+      "discipline": "O33: Technological Change: Choices and Consequences \u2022 Diffusion Processes, O34: Intellectual Property and Intellectual Capital, O38: Government Policy",
+      "evidence_based_policy": [
+        "Nature and Scope of exclusive rights",
+        "Exceptions",
+        "Mass digitisation/orphan works",
+        "Licensing and Business models",
+        "Fair remuneration",
+        "Enforcement"
+      ],
+      "full_citation": "Stobo, V., Deazley, R. and Anderson, I., 2013. Copyright & Risk: Scoping the Wellcome Digital Library Project (Vol. 10, pp. 17-23). CREATe Working Paper.",
+      "fundamental_issue": [
+        "Relationship between protection"
+      ],
+      "funded_by": [
+        "RCUK Funded Centre for Copyright and New Business Models in the Creative Economy (CREATe)"
+      ],
+      "government_or_policy": false,
+      "industry": [
+        "Advertising"
+      ],
+      "intervention_response": "Based on the results of the rights clearance exercise, and the material now available on the Wellcome Library website, Codebreakers has been a significant success for both the Wellcome Library and the 3rd party archives involved. In addition to this success, elements of the Wellcome Library approach to rights clearance could have wider applicability across the UK archive sector.",
+      "link": "http://www.create.ac.uk/wp-content/uploads/2013/12/CREATe-Working-Paper-No.10.pdf",
+      "literature_review": false,
+      "method": [
+        "Qualitative Analysis",
+        "Interviews",
+        "Case Study"
+      ],
+      "name": "Stobo, Deazley and Anderson (2013)",
+      "proposition": "Based on the results of the rights clearance exercise, and the material now available on the Wellcome Library website, Codebreakers has been a significant success for both the Wellcome Library and the 3rd party archives involved. In addition to this success, elements of the Wellcome Library approach to rights clearance could have wider applicability across the UK archive sector.\nThe Wellcome Library\u2019s risk management strategy had two broad aims: to manage the risks associated with publishing in-copyright material online and publishing potentially sensitive material online. They managed these risks in three ways.\nFirst: the publication of in-copyright material online was made possible using a risk management strategy which involves a set of risk criteria for identifying medium and high-risk rightsholders in the collections, and a diligent search standard for locating and contacting rightsholders.\nSecond: they managed the publication of potentially sensitive material online using their Access to Archives policy, which provides guidance that can be followed for all physical, digitised and born-digital material held across the Wellcome Library, to take into account both searchroom\nand online access to sensitive, personal data.\nThird: in addition to this, they have an established takedown policy which predates Codebreakers, and applies to all material available on their website. The most significant indicators of success for the archives clearance process include the number of permissions to publish granted: of the 77% of rightsholders contacted who responded, 98% said yes. The rate of response to permission requests itself was also relatively healthy compared to other projects: the Jon Cohen AIDS collection rights clearance project found that 68% of rightsholders contacted for permission to publish responded,127 compared to 77% in Codebreakers.",
+      "references": [
+        "Stobo, Deazley and Anderson (2013)",
+        "Dryden (2008)"
+      ],
+      "sample_size": "1",
+      "title": "Study 3",
+      "year": "2013"
+    }
+  ]
+}

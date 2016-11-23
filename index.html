@@ -1,0 +1,178 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="assets/css/normalize.css">
+        <link rel="stylesheet" href="assets/css/main.css">
+        <!-- <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script> -->
+    </head>
+    <body>
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+        <div id="canvas">
+          <div id="loader"></div>
+        </div>
+
+        <!-- Add your site or application content here -->
+        <details>
+          <summary>Filter</summary>
+          <form id="filters">
+            <fieldset id="industry">
+              <legend>Industry sectors:</legend>
+              <ul>
+                <li>
+                  <input type="checkbox" id="advertising">
+                  <label for="advertising">Advertising</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="architectural">
+                  <label for="architectural">Architectural</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="publishing">
+                  <label for="publishing">Publishing of books, periodicals and other publishing</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="broadcasting">
+                  <label for="broadcasting">Programming and broadcasting</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="programming">
+                  <label for="programming">Computer programming</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="consultancy">
+                  <label for="consultancy">Computer consultancy</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="arts">
+                  <label for="arts">Creative, arts and entertainment</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="cultural">
+                  <label for="cultural">Cultural education</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="film">
+                  <label for="film">Film and motion pictures</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="sound">
+                  <label for="sound">Sound recording and music publishing</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="photographic">
+                  <label for="photographic">Photographic activities</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="communications">
+                  <label for="communications">PR and communication</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="software">
+                  <label for="software">Software publishing (including video games)</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="design">
+                  <label for="design">Specialised design</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="television">
+                  <label for="television">Television programmes</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="translation">
+                  <label for="translation">Translation and interpretation</label>
+                </li>
+              </ul>
+            </fieldset>
+
+            <div class="">
+              AND
+            </div>
+
+            <fieldset id="issue">
+              <legend>Fundamental issues:</legend>
+              <ul>
+                <li>
+                  <input type="checkbox" id="protection">
+                  <label for="protection">Relationship between protection</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="process">
+                  <label for="process">Relationship between creative process and protection - what motivates creators</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="harmony">
+                  <label for="harmony">Harmony of interest assumption between authors and publishers</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="structure">
+                  <label for="structure">Effects of protection on industry structure</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="comsumption">
+                  <label for="comsumption">Understanding consumption/use</label>
+                </li>
+              </ul>
+            </fieldset>
+
+            <div class="">
+              AND
+            </div>
+
+            <fieldset id="policy">
+              <legend>Evidence based policies:</legend>
+              <ul>
+                <li>
+                  <input type="checkbox" id="exclusive">
+                  <label for="exclusive">Nature and Scope of exclusive rights</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="exceptions">
+                  <label for="exceptions">Exceptions</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="digitisation">
+                  <label for="digitisation">Mass digitisation/orphan works</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="licensing">
+                  <label for="licensing">Licensing and Business models</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="remuneration">
+                  <label for="remuneration">Fair remuneration</label>
+                </li>
+                <li>
+                  <input type="checkbox" id="enforcement">
+                  <label for="enforcement">Enforcement</label>
+                </li>
+              </ul>
+            </fieldset>
+          </form>
+        </details>
+
+        <div class="results">
+        </div>
+
+        <script src="assets/js/d3.v3.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/Data.js"></script>
+        <script src="assets/js/Canvas.js"></script>
+        <script src="assets/js/Loader.js"></script>
+        <script src="assets/js/Filter.js"></script>
+        <script src="assets/js/AXES.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
