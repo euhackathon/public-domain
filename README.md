@@ -1,5 +1,5 @@
-# public-domain
-Polar visualization project from team Public Domain for the [2016 EUHackathon](http://2016.euhackathon.eu/).
+# Team Public Domain - 2016 EUHackathon entry.
+Polar visualization project from team Public Domain (@anselmbradford and @contolini) for the [2016 EUHackathon](http://2016.euhackathon.eu/).
 
 ## ABOUT
 
@@ -15,7 +15,7 @@ center of the wheel. The project also includes a filter for
 browsing the studies but creating a reference set of categories, which
 the studies are then mapped against:
 
-![alt text][screenshot.png]
+![Filter Screenshot](screenshot.png)
 
 ## INSTALLATIOn
 
