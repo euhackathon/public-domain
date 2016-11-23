@@ -1,5 +1,5 @@
 # Team Public Domain - 2016 EUHackathon entry.
-Polar visualization project from team Public Domain (@anselmbradford and @contolini) for the [2016 EUHackathon](http://2016.euhackathon.eu/).
+Polar visualization project from team Public Domain ([@anselmbradford](https://github.com/anselmbradford) and [@contolini](https://github.com/contolini)) for the [2016 EUHackathon](http://2016.euhackathon.eu/).
 
 ## ABOUT
 
