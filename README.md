@@ -17,7 +17,7 @@ the studies are then mapped against:
 
 ![Filter Screenshot](screenshot.png)
 
-## INSTALLATIOn
+## INSTALLATION
 
  1. Clone the project with `git clone git@github.com:euhackathon/public-domain.git`.
  2. Move into the project directory with `cd public-domain`.
